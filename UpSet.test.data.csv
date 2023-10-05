@@ -1,0 +1,168 @@
+Pathway.1,group,value
+2-Oxocarboxylic acid metabolism,Addiciton.vs.Control,1
+Amino sugar and nucleotide sugar metabolism,Addiciton.vs.Control,1
+Aminoacyl-tRNA biosynthesis,Addiciton.vs.Control,1
+Apoptosis,Addiciton.vs.Control,1
+Autophagy - yeast,Addiciton.vs.Control,1
+Bacterial chemotaxis,Addiciton.vs.Control,1
+Bacterial invasion of epithelial cells,Addiciton.vs.Control,1
+Bacterial secretion system,Addiciton.vs.Control,1
+Benzoate degradation,Addiciton.vs.Control,1
+beta-Lactam resistance,Addiciton.vs.Control,1
+Biofilm formation - Pseudomonas aeruginosa,Addiciton.vs.Control,1
+Carbohydrate digestion and absorption,Addiciton.vs.Control,1
+Choline metabolism in cancer,Addiciton.vs.Control,1
+Degradation of aromatic compounds,Addiciton.vs.Control,1
+Dilated cardiomyopathy,Addiciton.vs.Control,1
+DNA replication,Addiciton.vs.Control,1
+Flavone and flavonol biosynthesis,Addiciton.vs.Control,1
+Galactose metabolism,Addiciton.vs.Control,1
+Glucagon signaling pathway,Addiciton.vs.Control,1
+Glycosaminoglycan degradation,Addiciton.vs.Control,1
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Addiciton.vs.Control,1
+Homologous recombination,Addiciton.vs.Control,1
+Legionellosis,Addiciton.vs.Control,1
+Longevity regulating pathway - multiple species,Addiciton.vs.Control,1
+Lysosome,Addiciton.vs.Control,1
+Meiosis - yeast,Addiciton.vs.Control,1
+Mismatch repair,Addiciton.vs.Control,1
+mRNA surveillance pathway,Addiciton.vs.Control,1
+Novobiocin biosynthesis,Addiciton.vs.Control,1
+Nucleotide excision repair,Addiciton.vs.Control,1
+Other glycan degradation,Addiciton.vs.Control,1
+Peptidoglycan biosynthesis,Addiciton.vs.Control,1
+Plant-pathogen interaction,Addiciton.vs.Control,1
+Purine metabolism,Addiciton.vs.Control,1
+Rheumatoid arthritis,Addiciton.vs.Control,1
+RNA degradation,Addiciton.vs.Control,1
+Sphingolipid metabolism,Addiciton.vs.Control,1
+Starch and sucrose metabolism,Addiciton.vs.Control,1
+Tight junction,Addiciton.vs.Control,1
+"Tropane, piperidine and pyridine alkaloid biosynthesis",Addiciton.vs.Control,1
+Type II diabetes mellitus,Addiciton.vs.Control,1
+Viral carcinogenesis,Addiciton.vs.Control,1
+2-Oxocarboxylic acid metabolism,Withdrawall.vs.Control,1
+"Alanine, aspartate and glutamate metabolism",Withdrawall.vs.Control,1
+Amino sugar and nucleotide sugar metabolism,Withdrawall.vs.Control,1
+Aminoacyl-tRNA biosynthesis,Withdrawall.vs.Control,1
+Apoptosis,Withdrawall.vs.Control,1
+Autophagy - yeast,Withdrawall.vs.Control,1
+Bacterial chemotaxis,Withdrawall.vs.Control,1
+Bacterial invasion of epithelial cells,Withdrawall.vs.Control,1
+Benzoate degradation,Withdrawall.vs.Control,1
+Biofilm formation - Pseudomonas aeruginosa,Withdrawall.vs.Control,1
+Carbohydrate digestion and absorption,Withdrawall.vs.Control,1
+Chemokine signaling pathway,Withdrawall.vs.Control,1
+Choline metabolism in cancer,Withdrawall.vs.Control,1
+Degradation of aromatic compounds,Withdrawall.vs.Control,1
+Dilated cardiomyopathy,Withdrawall.vs.Control,1
+Epithelial cell signaling in Helicobacter pylori infection,Withdrawall.vs.Control,1
+Ether lipid metabolism,Withdrawall.vs.Control,1
+Galactose metabolism,Withdrawall.vs.Control,1
+Glucagon signaling pathway,Withdrawall.vs.Control,1
+Glycosaminoglycan degradation,Withdrawall.vs.Control,1
+Glycosphingolipid biosynthesis - ganglio series,Withdrawall.vs.Control,1
+Glycosphingolipid biosynthesis - globo and isoglobo series,Withdrawall.vs.Control,1
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Withdrawall.vs.Control,1
+Legionellosis,Withdrawall.vs.Control,1
+Longevity regulating pathway - multiple species,Withdrawall.vs.Control,1
+Lysosome,Withdrawall.vs.Control,1
+Meiosis - yeast,Withdrawall.vs.Control,1
+Mismatch repair,Withdrawall.vs.Control,1
+mRNA surveillance pathway,Withdrawall.vs.Control,1
+Nucleotide excision repair,Withdrawall.vs.Control,1
+Other glycan degradation,Withdrawall.vs.Control,1
+Other types of O-glycan biosynthesis,Withdrawall.vs.Control,1
+Pertussis,Withdrawall.vs.Control,1
+Phenylalanine metabolism,Withdrawall.vs.Control,1
+Plant-pathogen interaction,Withdrawall.vs.Control,1
+Purine metabolism,Withdrawall.vs.Control,1
+RNA degradation,Withdrawall.vs.Control,1
+Sphingolipid metabolism,Withdrawall.vs.Control,1
+Starch and sucrose metabolism,Withdrawall.vs.Control,1
+Synaptic vesicle cycle,Withdrawall.vs.Control,1
+Tight junction,Withdrawall.vs.Control,1
+Two-component system,Withdrawall.vs.Control,1
+Various types of N-glycan biosynthesis,Withdrawall.vs.Control,1
+Galactose metabolism,Methadone.vs.Control,1
+Longevity regulating pathway - multiple species,Methadone.vs.Control,1
+Meiosis - yeast,Methadone.vs.Control,1
+Other glycan degradation,Methadone.vs.Control,1
+Sphingolipid metabolism,Methadone.vs.Control,1
+Bacterial invasion of epithelial cells,Addiciton.vs.Methadone,1
+DNA replication,Addiciton.vs.Methadone,1
+Galactose metabolism,Addiciton.vs.Methadone,1
+Glucagon signaling pathway,Addiciton.vs.Methadone,1
+Glycosaminoglycan degradation,Addiciton.vs.Methadone,1
+Longevity regulating pathway - multiple species,Addiciton.vs.Methadone,1
+Lysosome,Addiciton.vs.Methadone,1
+Mismatch repair,Addiciton.vs.Methadone,1
+Nucleotide excision repair,Addiciton.vs.Methadone,1
+Other glycan degradation,Addiciton.vs.Methadone,1
+Protein digestion and absorption,Addiciton.vs.Methadone,1
+Purine metabolism,Addiciton.vs.Methadone,1
+Pyrimidine metabolism,Addiciton.vs.Methadone,1
+RNA polymerase,Addiciton.vs.Methadone,1
+Sphingolipid metabolism,Addiciton.vs.Methadone,1
+Staphylococcus aureus infection,Addiciton.vs.Methadone,1
+"Alanine, aspartate and glutamate metabolism",Addiciton.vs.Withdrawal,1
+Amino sugar and nucleotide sugar metabolism,Addiciton.vs.Withdrawal,1
+AMPK signaling pathway,Addiciton.vs.Withdrawal,1
+Arginine biosynthesis,Addiciton.vs.Withdrawal,1
+Bacterial invasion of epithelial cells,Addiciton.vs.Withdrawal,1
+Bacterial secretion system,Addiciton.vs.Withdrawal,1
+beta-Alanine metabolism,Addiciton.vs.Withdrawal,1
+Biofilm formation - Escherichia coli,Addiciton.vs.Withdrawal,1
+Chloroalkane and chloroalkene degradation,Addiciton.vs.Withdrawal,1
+Choline metabolism in cancer,Addiciton.vs.Withdrawal,1
+Cyanoamino acid metabolism,Addiciton.vs.Withdrawal,1
+Cysteine and methionine metabolism,Addiciton.vs.Withdrawal,1
+Degradation of aromatic compounds,Addiciton.vs.Withdrawal,1
+ECM-receptor interaction,Addiciton.vs.Withdrawal,1
+Focal adhesion,Addiciton.vs.Withdrawal,1
+Fructose and mannose metabolism,Addiciton.vs.Withdrawal,1
+Galactose metabolism,Addiciton.vs.Withdrawal,1
+Glycosphingolipid biosynthesis - ganglio series,Addiciton.vs.Withdrawal,1
+Glycosphingolipid biosynthesis - globo and isoglobo series,Addiciton.vs.Withdrawal,1
+Glycosphingolipid biosynthesis - lacto and neolacto series,Addiciton.vs.Withdrawal,1
+HIF-1 signaling pathway,Addiciton.vs.Withdrawal,1
+Lysine biosynthesis,Addiciton.vs.Withdrawal,1
+Microbial metabolism in diverse environments,Addiciton.vs.Withdrawal,1
+MicroRNAs in cancer,Addiciton.vs.Withdrawal,1
+Mismatch repair,Addiciton.vs.Withdrawal,1
+Monobactam biosynthesis,Addiciton.vs.Withdrawal,1
+Naphthalene degradation,Addiciton.vs.Withdrawal,1
+Nitrogen metabolism,Addiciton.vs.Withdrawal,1
+Novobiocin biosynthesis,Addiciton.vs.Withdrawal,1
+Nucleotide excision repair,Addiciton.vs.Withdrawal,1
+Other glycan degradation,Addiciton.vs.Withdrawal,1
+Penicillin and cephalosporin biosynthesis,Addiciton.vs.Withdrawal,1
+Peptidoglycan biosynthesis,Addiciton.vs.Withdrawal,1
+"Phenylalanine, tyrosine and tryptophan biosynthesis",Addiciton.vs.Withdrawal,1
+Phosphotransferase system (PTS),Addiciton.vs.Withdrawal,1
+Propanoate metabolism,Addiciton.vs.Withdrawal,1
+Protein digestion and absorption,Addiciton.vs.Withdrawal,1
+Sphingolipid metabolism,Addiciton.vs.Withdrawal,1
+Staphylococcus aureus infection,Addiciton.vs.Withdrawal,1
+Starch and sucrose metabolism,Addiciton.vs.Withdrawal,1
+Toll and Imd signaling pathway,Addiciton.vs.Withdrawal,1
+"Tropane, piperidine and pyridine alkaloid biosynthesis",Addiciton.vs.Withdrawal,1
+Type I diabetes mellitus,Addiciton.vs.Withdrawal,1
+Tyrosine metabolism,Addiciton.vs.Withdrawal,1
+Vascular smooth muscle contraction,Addiciton.vs.Withdrawal,1
+Amino sugar and nucleotide sugar metabolism,Withdrawal.vs.Methadone,1
+Bacterial invasion of epithelial cells,Withdrawal.vs.Methadone,1
+DNA replication,Withdrawal.vs.Methadone,1
+Galactose metabolism,Withdrawal.vs.Methadone,1
+Glyoxylate and dicarboxylate metabolism,Withdrawal.vs.Methadone,1
+Homologous recombination,Withdrawal.vs.Methadone,1
+Metabolic pathways,Withdrawal.vs.Methadone,1
+Microbial metabolism in diverse environments,Withdrawal.vs.Methadone,1
+Mismatch repair,Withdrawal.vs.Methadone,1
+Nitrogen metabolism,Withdrawal.vs.Methadone,1
+Nucleotide excision repair,Withdrawal.vs.Methadone,1
+Other glycan degradation,Withdrawal.vs.Methadone,1
+Purine metabolism,Withdrawal.vs.Methadone,1
+Pyrimidine metabolism,Withdrawal.vs.Methadone,1
+RNA polymerase,Withdrawal.vs.Methadone,1
+Sphingolipid metabolism,Withdrawal.vs.Methadone,1
