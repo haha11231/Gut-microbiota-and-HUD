@@ -1,0 +1,168 @@
+Row.names,ID,Pathway.Identifier,Pathway.1,big.annotion,small.annotion,Sample1..51360.,Sample2..1171979.,Pvalue,Qvalue,Pathway.ID,Richfactor,group
+2-Oxocarboxylic acid metabolism,1210,map01210,2-Oxocarboxylic acid metabolism,Metabolism,Global and overview maps,724,14647,0.000560243,0.008497023,ko01210,0.049429917,Addiciton.vs.Control
+Amino sugar and nucleotide sugar metabolism,520,map00520,Amino sugar and nucleotide sugar metabolism,Metabolism,Carbohydrate metabolism,1619,34214,0.000791208,0.01070101,ko00520,0.047319811,Addiciton.vs.Control
+Aminoacyl-tRNA biosynthesis,970,map00970,Aminoacyl-tRNA biosynthesis,Genetic Information Processing,Translation,1176,23640,5.57E-06,0.000168893,ko00970,0.049746193,Addiciton.vs.Control
+Apoptosis,4210,hsa04210,Apoptosis,Cellular Processes,Cell growth and death,41,582,0.002290756,0.02605735,ko04210,0.070446735,Addiciton.vs.Control
+Autophagy - yeast,4138,sce04138,Autophagy - yeast,Cellular Processes,Transport and catabolism,39,544,0.00212663,0.02580311,ko04138,0.071691176,Addiciton.vs.Control
+Bacterial chemotaxis,2030,map02030,Bacterial chemotaxis,Cellular Processes,Cell motility,327,5946,2.62E-05,0.000733945,ko02030,0.054994955,Addiciton.vs.Control
+Bacterial invasion of epithelial cells,5100,organism:hsa+pathogen,Bacterial invasion of epithelial cells,Human Diseases,Infectious disease: bacterial,89,1392,0.000333679,0.006392583,ko05100,0.063936782,Addiciton.vs.Control
+Bacterial secretion system,3070,map03070,Bacterial secretion system,Environmental Information Processing,Membrane transport,567,11334,0.000793756,0.01070101,ko03070,0.050026469,Addiciton.vs.Control
+Benzoate degradation,362,map00362,Benzoate degradation,Metabolism,Xenobiotics biodegradation and metabolism,235,4252,0.000239905,0.005457848,ko00362,0.055268109,Addiciton.vs.Control
+beta-Lactam resistance,1501,map01501,beta-Lactam resistance,Human Diseases,Drug resistance: antimicrobial,449,8752,0.000438405,0.007253615,ko01501,0.051302559,Addiciton.vs.Control
+Biofilm formation - Pseudomonas aeruginosa,2025,map02025,Biofilm formation - Pseudomonas aeruginosa,Cellular Processes,Cellular community - prokaryotes,321,3714,1.07E-29,1.29E-27,ko02025,0.086429725,Addiciton.vs.Control
+Carbohydrate digestion and absorption,4973,hsa04973,Carbohydrate digestion and absorption,Organismal Systems,Digestive system,65,946,0.000314669,0.006363313,ko04973,0.068710359,Addiciton.vs.Control
+Choline metabolism in cancer,5231,hsa05231,Choline metabolism in cancer,Human Diseases,Cancer: overview,83,1199,4.15E-05,0.001078737,ko05231,0.069224354,Addiciton.vs.Control
+Degradation of aromatic compounds,1220,map01220,Degradation of aromatic compounds,Metabolism,Global and overview maps,305,5934,0.002854035,0.03055496,ko01220,0.051398719,Addiciton.vs.Control
+Dilated cardiomyopathy,5414,hsa05414,Dilated cardiomyopathy,Human Diseases,Cardiovascular disease,7,33,0.000483856,0.007657542,ko05414,0.212121212,Addiciton.vs.Control
+DNA replication,3030,map03030,DNA replication,Genetic Information Processing,Replication and repair,745,15487,0.005110359,0.04537002,ko03030,0.048104862,Addiciton.vs.Control
+Flavone and flavonol biosynthesis,944,map00944,Flavone and flavonol biosynthesis,Metabolism,Biosynthesis of other secondary metabolites,41,528,0.000362137,0.006474536,ko00944,0.077651515,Addiciton.vs.Control
+Galactose metabolism,52,map00052,Galactose metabolism,Metabolism,Carbohydrate metabolism,1084,20563,5.65E-10,2.94E-08,ko00052,0.052716043,Addiciton.vs.Control
+Glucagon signaling pathway,4922,hsa04922,Glucagon signaling pathway,Organismal Systems,Endocrine system,213,3997,0.002465058,0.02719034,ko04922,0.053289967,Addiciton.vs.Control
+Glycosaminoglycan degradation,531,map00531,Glycosaminoglycan degradation,Metabolism,Glycan biosynthesis and metabolism,217,3532,7.34E-07,2.43E-05,ko00531,0.061438279,Addiciton.vs.Control
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,563,map00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Metabolism,Glycan biosynthesis and metabolism,21,204,0.000279352,0.005981421,ko00563,0.102941176,Addiciton.vs.Control
+Homologous recombination,3440,map03440,Homologous recombination,Genetic Information Processing,Replication and repair,1002,21124,0.005489239,0.0475734,ko03440,0.047434198,Addiciton.vs.Control
+Legionellosis,5134,organism:hsa+pathogen,Legionellosis,Human Diseases,Infectious disease: bacterial,179,3290,0.00226327,0.02605735,ko05134,0.054407295,Addiciton.vs.Control
+Longevity regulating pathway - multiple species,4213,hsa04213,Longevity regulating pathway - multiple species,Organismal Systems,Aging,290,2733,3.71E-42,6.74E-40,ko04213,0.106110501,Addiciton.vs.Control
+Lysosome,4142,hsa04142,Lysosome,Cellular Processes,Transport and catabolism,260,4192,3.01E-08,1.09E-06,ko04142,0.062022901,Addiciton.vs.Control
+Meiosis - yeast,4113,sce04113,Meiosis - yeast,Cellular Processes,Cell growth and death,241,1721,1.09E-55,3.96E-53,ko04113,0.140034863,Addiciton.vs.Control
+Mismatch repair,3430,map03430,Mismatch repair,Genetic Information Processing,Replication and repair,1027,19776,2.44E-08,9.88E-07,ko03430,0.051931634,Addiciton.vs.Control
+mRNA surveillance pathway,3015,map03015,mRNA surveillance pathway,Genetic Information Processing,Translation,32,412,0.001477308,0.019205,ko03015,0.077669903,Addiciton.vs.Control
+Novobiocin biosynthesis,401,map00401,Novobiocin biosynthesis,Metabolism,Biosynthesis of other secondary metabolites,133,2341,0.001792966,0.02250481,ko00401,0.056813328,Addiciton.vs.Control
+Nucleotide excision repair,3420,map03420,Nucleotide excision repair,Genetic Information Processing,Replication and repair,702,12633,2.43E-10,1.47E-08,ko03420,0.055568749,Addiciton.vs.Control
+Other glycan degradation,511,map00511,Other glycan degradation,Metabolism,Glycan biosynthesis and metabolism,508,8203,1.83E-14,1.66E-12,ko00511,0.061928563,Addiciton.vs.Control
+Peptidoglycan biosynthesis,550,map00550,Peptidoglycan biosynthesis,Metabolism,Glycan biosynthesis and metabolism,797,16153,0.000373531,0.006474536,ko00550,0.04934068,Addiciton.vs.Control
+Plant-pathogen interaction,4626,ath04626,Plant-pathogen interaction,Organismal Systems,Environmental adaptation,154,2838,0.004700442,0.04537002,ko04626,0.054263566,Addiciton.vs.Control
+Purine metabolism,230,map00230,Purine metabolism,Metabolism,Nucleotide metabolism,2282,46124,1.52E-09,6.93E-08,ko00230,0.049475327,Addiciton.vs.Control
+Rheumatoid arthritis,5323,hsa05323,Rheumatoid arthritis,Human Diseases,Immune disease,9,74,0.005015277,0.04537002,ko05323,0.121621622,Addiciton.vs.Control
+RNA degradation,3018,map03018,RNA degradation,Genetic Information Processing,"Folding, sorting and degradation",662,13325,0.000593929,0.008647599,ko03018,0.049681051,Addiciton.vs.Control
+Sphingolipid metabolism,600,map00600,Sphingolipid metabolism,Metabolism,Lipid metabolism,373,5797,4.20E-13,3.06E-11,ko00600,0.064343626,Addiciton.vs.Control
+Starch and sucrose metabolism,500,map00500,Starch and sucrose metabolism,Metabolism,Carbohydrate metabolism,1459,30384,0.000186575,0.004527563,ko00500,0.048018694,Addiciton.vs.Control
+Tight junction,4530,hsa04530,Tight junction,Cellular Processes,Cellular community - eukaryotes,27,349,0.003455786,0.03594017,ko04530,0.077363897,Addiciton.vs.Control
+"Tropane, piperidine and pyridine alkaloid biosynthesis",960,map00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",Metabolism,Biosynthesis of other secondary metabolites,141,2575,0.004867814,0.04537002,ko00960,0.054757282,Addiciton.vs.Control
+Type II diabetes mellitus,4930,hsa04930,Type II diabetes mellitus,Human Diseases,Endocrine and metabolic disease,61,984,0.00493317,0.04537002,ko04930,0.06199187,Addiciton.vs.Control
+Viral carcinogenesis,5203,organism:hsa+pathogen,Viral carcinogenesis,Human Diseases,Cancer: overview,76,1265,0.004162041,0.04208286,ko05203,0.060079051,Addiciton.vs.Control
+2-Oxocarboxylic acid metabolism,1210,map01210,2-Oxocarboxylic acid metabolism,Metabolism,Global and overview maps,727,14647,0.000519245,0.007996367,ko01210,0.049634737,Withdrawall.vs.Control
+"Alanine, aspartate and glutamate metabolism",250,map00250,"Alanine, aspartate and glutamate metabolism",Metabolism,Amino acid metabolism,959,19134,2.28E-05,0.000674284,ko00250,0.050120205,Withdrawall.vs.Control
+Amino sugar and nucleotide sugar metabolism,520,map00520,Amino sugar and nucleotide sugar metabolism,Metabolism,Carbohydrate metabolism,1651,34214,5.97E-05,0.001431041,ko00520,0.0482551,Withdrawall.vs.Control
+Aminoacyl-tRNA biosynthesis,970,map00970,Aminoacyl-tRNA biosynthesis,Genetic Information Processing,Translation,1173,23640,1.46E-05,0.000469535,ko00970,0.049619289,Withdrawall.vs.Control
+Apoptosis,4210,hsa04210,Apoptosis,Cellular Processes,Cell growth and death,45,582,0.000231226,0.004046457,ko04210,0.077319588,Withdrawall.vs.Control
+Autophagy - yeast,4138,sce04138,Autophagy - yeast,Cellular Processes,Transport and catabolism,44,544,0.000100398,0.001932652,ko04138,0.080882353,Withdrawall.vs.Control
+Bacterial chemotaxis,2030,map02030,Bacterial chemotaxis,Cellular Processes,Cell motility,325,5946,5.57E-05,0.001428936,ko02030,0.054658594,Withdrawall.vs.Control
+Bacterial invasion of epithelial cells,5100,organism:hsa+pathogen,Bacterial invasion of epithelial cells,Human Diseases,Infectious disease: bacterial,93,1392,6.32E-05,0.001431041,ko05100,0.066810345,Withdrawall.vs.Control
+Benzoate degradation,362,map00362,Benzoate degradation,Metabolism,Xenobiotics biodegradation and metabolism,231,4252,0.000789098,0.01125195,ko00362,0.054327375,Withdrawall.vs.Control
+Biofilm formation - Pseudomonas aeruginosa,2025,map02025,Biofilm formation - Pseudomonas aeruginosa,Cellular Processes,Cellular community - prokaryotes,294,3714,1.92E-21,2.46E-19,ko02025,0.079159935,Withdrawall.vs.Control
+Carbohydrate digestion and absorption,4973,hsa04973,Carbohydrate digestion and absorption,Organismal Systems,Digestive system,64,946,0.000566991,0.008395831,ko04973,0.067653277,Withdrawall.vs.Control
+Chemokine signaling pathway,4062,hsa04062,Chemokine signaling pathway,Organismal Systems,Immune system,8,54,0.002381213,0.02546575,ko04062,0.148148148,Withdrawall.vs.Control
+Choline metabolism in cancer,5231,hsa05231,Choline metabolism in cancer,Human Diseases,Cancer: overview,83,1199,4.68E-05,0.001286093,ko05231,0.069224354,Withdrawall.vs.Control
+Degradation of aromatic compounds,1220,map01220,Degradation of aromatic compounds,Metabolism,Global and overview maps,305,5934,0.003435502,0.03391457,ko01220,0.051398719,Withdrawall.vs.Control
+Dilated cardiomyopathy,5414,hsa05414,Dilated cardiomyopathy,Human Diseases,Cardiovascular disease,6,33,0.00287394,0.02990451,ko05414,0.181818182,Withdrawall.vs.Control
+Epithelial cell signaling in Helicobacter pylori infection,5120,organism:hsa+pathogen,Epithelial cell signaling in Helicobacter pylori infection,Human Diseases,Infectious disease: bacterial,111,1933,0.003213619,0.03255903,ko05120,0.057423694,Withdrawall.vs.Control
+Ether lipid metabolism,565,map00565,Ether lipid metabolism,Metabolism,Lipid metabolism,26,318,0.002027258,0.0230477,ko00565,0.081761006,Withdrawall.vs.Control
+Galactose metabolism,52,map00052,Galactose metabolism,Metabolism,Carbohydrate metabolism,1075,20563,6.63E-09,3.19E-07,ko00052,0.052278364,Withdrawall.vs.Control
+Glucagon signaling pathway,4922,hsa04922,Glucagon signaling pathway,Organismal Systems,Endocrine system,212,3997,0.003589743,0.03455128,ko04922,0.05303978,Withdrawall.vs.Control
+Glycosaminoglycan degradation,531,map00531,Glycosaminoglycan degradation,Metabolism,Glycan biosynthesis and metabolism,225,3532,4.28E-08,1.65E-06,ko00531,0.063703284,Withdrawall.vs.Control
+Glycosphingolipid biosynthesis - ganglio series,604,map00604,Glycosphingolipid biosynthesis - ganglio series,Metabolism,Glycan biosynthesis and metabolism,97,1483,9.66E-05,0.001932652,ko00604,0.065407957,Withdrawall.vs.Control
+Glycosphingolipid biosynthesis - globo and isoglobo series,603,map00603,Glycosphingolipid biosynthesis - globo and isoglobo series,Metabolism,Glycan biosynthesis and metabolism,169,2923,0.000267472,0.004477249,ko00603,0.057817311,Withdrawall.vs.Control
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,563,map00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Metabolism,Glycan biosynthesis and metabolism,19,204,0.001821387,0.02262045,ko00563,0.093137255,Withdrawall.vs.Control
+Legionellosis,5134,organism:hsa+pathogen,Legionellosis,Human Diseases,Infectious disease: bacterial,180,3290,0.002035381,0.0230477,ko05134,0.054711246,Withdrawall.vs.Control
+Longevity regulating pathway - multiple species,4213,hsa04213,Longevity regulating pathway - multiple species,Organismal Systems,Aging,270,2733,6.38E-34,1.23E-31,ko04213,0.098792536,Withdrawall.vs.Control
+Lysosome,4142,hsa04142,Lysosome,Cellular Processes,Transport and catabolism,269,4192,1.18E-09,7.57E-08,ko04142,0.064169847,Withdrawall.vs.Control
+Meiosis - yeast,4113,sce04113,Meiosis - yeast,Cellular Processes,Cell growth and death,223,1721,7.90E-46,3.04E-43,ko04113,0.129575828,Withdrawall.vs.Control
+Mismatch repair,3430,map03430,Mismatch repair,Genetic Information Processing,Replication and repair,999,19776,5.19E-06,0.000181566,ko03430,0.050515777,Withdrawall.vs.Control
+mRNA surveillance pathway,3015,map03015,mRNA surveillance pathway,Genetic Information Processing,Translation,30,412,0.005400071,0.04834947,ko03015,0.072815534,Withdrawall.vs.Control
+Nucleotide excision repair,3420,map03420,Nucleotide excision repair,Genetic Information Processing,Replication and repair,684,12633,3.32E-08,1.42E-06,ko03420,0.054143909,Withdrawall.vs.Control
+Other glycan degradation,511,map00511,Other glycan degradation,Metabolism,Glycan biosynthesis and metabolism,530,8203,5.77E-18,5.55E-16,ko00511,0.064610508,Withdrawall.vs.Control
+Other types of O-glycan biosynthesis,514,map00514,Other types of O-glycan biosynthesis,Metabolism,Glycan biosynthesis and metabolism,14,145,0.004963643,0.04660982,ko00514,0.096551724,Withdrawall.vs.Control
+Pertussis,5133,organism:hsa+pathogen,Pertussis,Human Diseases,Infectious disease: bacterial,213,3925,0.001278782,0.01697693,ko05133,0.054267516,Withdrawall.vs.Control
+Phenylalanine metabolism,360,map00360,Phenylalanine metabolism,Metabolism,Amino acid metabolism,289,5644,0.005130268,0.04702746,ko00360,0.051204819,Withdrawall.vs.Control
+Plant-pathogen interaction,4626,ath04626,Plant-pathogen interaction,Organismal Systems,Environmental adaptation,158,2838,0.001887935,0.02271422,ko04626,0.055673009,Withdrawall.vs.Control
+Purine metabolism,230,map00230,Purine metabolism,Metabolism,Nucleotide metabolism,2283,46124,3.75E-09,2.06E-07,ko00230,0.049497008,Withdrawall.vs.Control
+RNA degradation,3018,map03018,RNA degradation,Genetic Information Processing,"Folding, sorting and degradation",676,13325,9.92E-05,0.001932652,ko03018,0.050731707,Withdrawall.vs.Control
+Sphingolipid metabolism,600,map00600,Sphingolipid metabolism,Metabolism,Lipid metabolism,364,5797,2.39E-11,1.84E-09,ko00600,0.062791099,Withdrawall.vs.Control
+Starch and sucrose metabolism,500,map00500,Starch and sucrose metabolism,Metabolism,Carbohydrate metabolism,1448,30384,0.000915419,0.01258701,ko00500,0.047656661,Withdrawall.vs.Control
+Synaptic vesicle cycle,4721,hsa04721,Synaptic vesicle cycle,Organismal Systems,Nervous system,19,208,0.002271198,0.02498318,ko04721,0.091346154,Withdrawall.vs.Control
+Tight junction,4530,hsa04530,Tight junction,Cellular Processes,Cellular community - eukaryotes,31,349,0.00020008,0.003668124,ko04530,0.088825215,Withdrawall.vs.Control
+Two-component system,2020,map02020,Two-component system,Environmental Information Processing,Signal transduction,2238,47427,0.000299858,0.004810222,ko02020,0.04718831,Withdrawall.vs.Control
+Various types of N-glycan biosynthesis,513,map00513,Various types of N-glycan biosynthesis,Metabolism,Glycan biosynthesis and metabolism,104,1754,0.001631564,0.0209384,ko00513,0.059293044,Withdrawall.vs.Control
+Galactose metabolism,52,map00052,Galactose metabolism,Metabolism,Carbohydrate metabolism,150,20563,0.000176295,0.011811752,ko00052,0.007294655,Methadone.vs.Control
+Longevity regulating pathway - multiple species,4213,hsa04213,Longevity regulating pathway - multiple species,Organismal Systems,Aging,29,2733,0.000598289,0.032068296,ko04213,0.01061105,Methadone.vs.Control
+Meiosis - yeast,4113,sce04113,Meiosis - yeast,Cellular Processes,Cell growth and death,26,1721,4.30E-06,0.00057609,ko04113,0.015107496,Methadone.vs.Control
+Other glycan degradation,511,map00511,Other glycan degradation,Metabolism,Glycan biosynthesis and metabolism,74,8203,2.17E-05,0.0019387,ko00511,0.00902109,Methadone.vs.Control
+Sphingolipid metabolism,600,map00600,Sphingolipid metabolism,Metabolism,Lipid metabolism,62,5797,6.27E-07,0.000168007,ko00600,0.010695187,Methadone.vs.Control
+Bacterial invasion of epithelial cells,5100,organism:hsa+pathogen,Bacterial invasion of epithelial cells,Human Diseases,Infectious disease: bacterial,37,1392,7.05E-07,0.000103268,ko05100,0.02658046,Addiciton.vs.Methadone
+DNA replication,3030,map03030,DNA replication,Genetic Information Processing,Replication and repair,202,15487,0.00229535,0.0420336,ko03030,0.013043198,Addiciton.vs.Methadone
+Galactose metabolism,52,map00052,Galactose metabolism,Metabolism,Carbohydrate metabolism,264,20563,0.00130676,0.03480733,ko00052,0.012838594,Addiciton.vs.Methadone
+Glucagon signaling pathway,4922,hsa04922,Glucagon signaling pathway,Organismal Systems,Endocrine system,64,3997,0.001126386,0.03480733,ko04922,0.016012009,Addiciton.vs.Methadone
+Glycosaminoglycan degradation,531,map00531,Glycosaminoglycan degradation,Metabolism,Glycan biosynthesis and metabolism,57,3532,0.001698249,0.03653679,ko00531,0.016138165,Addiciton.vs.Methadone
+Longevity regulating pathway - multiple species,4213,hsa04213,Longevity regulating pathway - multiple species,Organismal Systems,Aging,47,2733,0.001221445,0.03480733,ko04213,0.017197219,Addiciton.vs.Methadone
+Lysosome,4142,hsa04142,Lysosome,Cellular Processes,Transport and catabolism,69,4192,0.0003661,0.01532388,ko04142,0.016459924,Addiciton.vs.Methadone
+Mismatch repair,3430,map03430,Mismatch repair,Genetic Information Processing,Replication and repair,278,19776,3.21E-06,0.000256336,ko03430,0.014057443,Addiciton.vs.Methadone
+Nucleotide excision repair,3420,map03420,Nucleotide excision repair,Genetic Information Processing,Replication and repair,177,12633,0.00020179,0.01182486,ko03420,0.014010924,Addiciton.vs.Methadone
+Other glycan degradation,511,map00511,Other glycan degradation,Metabolism,Glycan biosynthesis and metabolism,141,8203,5.24E-08,1.54E-05,ko00511,0.017188833,Addiciton.vs.Methadone
+Protein digestion and absorption,4974,hsa04974,Protein digestion and absorption,Organismal Systems,Digestive system,16,642,0.001745785,0.03653679,ko04974,0.024922118,Addiciton.vs.Methadone
+Purine metabolism,230,map00230,Purine metabolism,Metabolism,Nucleotide metabolism,565,46124,0.000354987,0.01532388,ko00230,0.012249588,Addiciton.vs.Methadone
+Pyrimidine metabolism,240,map00240,Pyrimidine metabolism,Metabolism,Nucleotide metabolism,445,36389,0.00157387,0.03653679,ko00240,0.01222897,Addiciton.vs.Methadone
+RNA polymerase,3020,map03020,RNA polymerase,Genetic Information Processing,Transcription,73,4541,0.000484954,0.01776143,ko03020,0.016075754,Addiciton.vs.Methadone
+Sphingolipid metabolism,600,map00600,Sphingolipid metabolism,Metabolism,Lipid metabolism,100,5797,3.50E-06,0.000256336,ko00600,0.017250302,Addiciton.vs.Methadone
+Staphylococcus aureus infection,5150,organism:hsa+pathogen,Staphylococcus aureus infection,Human Diseases,Infectious disease: bacterial,26,1306,0.002173093,0.0420336,ko05150,0.019908116,Addiciton.vs.Methadone
+"Alanine, aspartate and glutamate metabolism",250,map00250,"Alanine, aspartate and glutamate metabolism",Metabolism,Amino acid metabolism,263,1927,5.41E-09,5.59E-07,ko00250,0.136481578,Addiciton.vs.Withdrawal
+Amino sugar and nucleotide sugar metabolism,520,map00520,Amino sugar and nucleotide sugar metabolism,Metabolism,Carbohydrate metabolism,441,3433,2.48E-10,3.84E-08,ko00520,0.128459074,Addiciton.vs.Withdrawal
+AMPK signaling pathway,4152,hsa04152,AMPK signaling pathway,Environmental Information Processing,Signal transduction,23,113,0.000422118,0.005689415,ko04152,0.203539823,Addiciton.vs.Withdrawal
+Arginine biosynthesis,220,map00220,Arginine biosynthesis,Metabolism,Amino acid metabolism,115,885,0.000605078,0.007214388,ko00220,0.129943503,Addiciton.vs.Withdrawal
+Bacterial invasion of epithelial cells,5100,organism:hsa+pathogen,Bacterial invasion of epithelial cells,Human Diseases,Infectious disease: bacterial,34,164,1.40E-05,0.000311025,ko05100,0.207317073,Addiciton.vs.Withdrawal
+Bacterial secretion system,3070,map03070,Bacterial secretion system,Environmental Information Processing,Membrane transport,146,1193,0.001581485,0.01634201,ko03070,0.122380553,Addiciton.vs.Withdrawal
+beta-Alanine metabolism,410,map00410,beta-Alanine metabolism,Metabolism,Metabolism of other amino acids,42,259,0.000559798,0.006941493,ko00410,0.162162162,Addiciton.vs.Withdrawal
+Biofilm formation - Escherichia coli,2026,map02026,Biofilm formation - Escherichia coli,Cellular Processes,Cellular community - prokaryotes,118,975,0.005789106,0.04216322,ko02026,0.121025641,Addiciton.vs.Withdrawal
+Chloroalkane and chloroalkene degradation,625,map00625,Chloroalkane and chloroalkene degradation,Metabolism,Xenobiotics biodegradation and metabolism,47,334,0.005360849,0.04154658,ko00625,0.140718563,Addiciton.vs.Withdrawal
+Choline metabolism in cancer,5231,hsa05231,Choline metabolism in cancer,Human Diseases,Cancer: overview,36,99,6.10E-13,1.89E-10,ko05231,0.363636364,Addiciton.vs.Withdrawal
+Cyanoamino acid metabolism,460,map00460,Cyanoamino acid metabolism,Metabolism,Metabolism of other amino acids,71,506,0.000843511,0.009684757,ko00460,0.140316206,Addiciton.vs.Withdrawal
+Cysteine and methionine metabolism,270,map00270,Cysteine and methionine metabolism,Metabolism,Amino acid metabolism,243,2162,0.00603139,0.04216322,ko00270,0.11239593,Addiciton.vs.Withdrawal
+Degradation of aromatic compounds,1220,map01220,Degradation of aromatic compounds,Metabolism,Global and overview maps,71,516,0.00142335,0.01521512,ko01220,0.137596899,Addiciton.vs.Withdrawal
+ECM-receptor interaction,4512,hsa04512,ECM-receptor interaction,Environmental Information Processing,Signaling molecules and interaction,7,20,0.00188846,0.01761463,ko04512,0.35,Addiciton.vs.Withdrawal
+Focal adhesion,4510,hsa04510,Focal adhesion,Cellular Processes,Cellular community - eukaryotes,8,30,0.006120468,0.04216322,ko04510,0.266666667,Addiciton.vs.Withdrawal
+Fructose and mannose metabolism,51,map00051,Fructose and mannose metabolism,Metabolism,Carbohydrate metabolism,162,1380,0.004813781,0.04033168,ko00051,0.117391304,Addiciton.vs.Withdrawal
+Galactose metabolism,52,map00052,Galactose metabolism,Metabolism,Carbohydrate metabolism,275,2101,1.11E-07,6.87E-06,ko00052,0.130890052,Addiciton.vs.Withdrawal
+Glycosphingolipid biosynthesis - ganglio series,604,map00604,Glycosphingolipid biosynthesis - ganglio series,Metabolism,Glycan biosynthesis and metabolism,26,159,0.005084875,0.04148188,ko00604,0.163522013,Addiciton.vs.Withdrawal
+Glycosphingolipid biosynthesis - globo and isoglobo series,603,map00603,Glycosphingolipid biosynthesis - globo and isoglobo series,Metabolism,Glycan biosynthesis and metabolism,47,273,6.49E-05,0.001183789,ko00603,0.172161172,Addiciton.vs.Withdrawal
+Glycosphingolipid biosynthesis - lacto and neolacto series,601,map00601,Glycosphingolipid biosynthesis - lacto and neolacto series,Metabolism,Glycan biosynthesis and metabolism,4,5,0.000392978,0.005537413,ko00601,0.8,Addiciton.vs.Withdrawal
+HIF-1 signaling pathway,4066,hsa04066,HIF-1 signaling pathway,Environmental Information Processing,Signal transduction,28,164,0.001988748,0.01761463,ko04066,0.170731707,Addiciton.vs.Withdrawal
+Lysine biosynthesis,300,map00300,Lysine biosynthesis,Metabolism,Amino acid metabolism,125,884,9.21E-06,0.000238029,ko00300,0.141402715,Addiciton.vs.Withdrawal
+Microbial metabolism in diverse environments,1120,map01120,Microbial metabolism in diverse environments,Metabolism,Global and overview maps,1131,10472,1.19E-05,0.000284635,ko01120,0.108002292,Addiciton.vs.Withdrawal
+MicroRNAs in cancer,5206,hsa05206,MicroRNAs in cancer,Human Diseases,Cancer: overview,43,284,0.001958838,0.01761463,ko05206,0.151408451,Addiciton.vs.Withdrawal
+Mismatch repair,3430,map03430,Mismatch repair,Genetic Information Processing,Replication and repair,282,2258,3.77E-06,0.000109143,ko03430,0.124889283,Addiciton.vs.Withdrawal
+Monobactam biosynthesis,261,map00261,Monobactam biosynthesis,Metabolism,Biosynthesis of other secondary metabolites,47,336,0.005986995,0.04216322,ko00261,0.139880952,Addiciton.vs.Withdrawal
+Naphthalene degradation,626,map00626,Naphthalene degradation,Metabolism,Xenobiotics biodegradation and metabolism,33,216,0.005272003,0.04154658,ko00626,0.152777778,Addiciton.vs.Withdrawal
+Nitrogen metabolism,910,map00910,Nitrogen metabolism,Metabolism,Energy metabolism,123,877,1.58E-05,0.000326118,ko00910,0.140250855,Addiciton.vs.Withdrawal
+Novobiocin biosynthesis,401,map00401,Novobiocin biosynthesis,Metabolism,Biosynthesis of other secondary metabolites,34,168,2.38E-05,0.000462016,ko00401,0.202380952,Addiciton.vs.Withdrawal
+Nucleotide excision repair,3420,map03420,Nucleotide excision repair,Genetic Information Processing,Replication and repair,216,1566,5.26E-08,4.07E-06,ko03420,0.137931034,Addiciton.vs.Withdrawal
+Other glycan degradation,511,map00511,Other glycan degradation,Metabolism,Glycan biosynthesis and metabolism,140,996,3.87E-06,0.000109143,ko00511,0.140562249,Addiciton.vs.Withdrawal
+Penicillin and cephalosporin biosynthesis,311,map00311,Penicillin and cephalosporin biosynthesis,Metabolism,Biosynthesis of other secondary metabolites,8,25,0.001746118,0.01746118,ko00311,0.32,Addiciton.vs.Withdrawal
+Peptidoglycan biosynthesis,550,map00550,Peptidoglycan biosynthesis,Metabolism,Glycan biosynthesis and metabolism,190,1405,1.18E-06,4.08E-05,ko00550,0.135231317,Addiciton.vs.Withdrawal
+"Phenylalanine, tyrosine and tryptophan biosynthesis",400,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",Metabolism,Amino acid metabolism,142,962,2.16E-07,1.02E-05,ko00400,0.147609148,Addiciton.vs.Withdrawal
+Phosphotransferase system (PTS),2060,map02060,Phosphotransferase system (PTS),Environmental Information Processing,Membrane transport,139,938,2.30E-07,1.02E-05,ko02060,0.148187633,Addiciton.vs.Withdrawal
+Propanoate metabolism,640,map00640,Propanoate metabolism,Metabolism,Carbohydrate metabolism,138,1116,0.001410549,0.01521512,ko00640,0.123655914,Addiciton.vs.Withdrawal
+Protein digestion and absorption,4974,hsa04974,Protein digestion and absorption,Organismal Systems,Digestive system,13,61,0.004688889,0.04033168,ko04974,0.213114754,Addiciton.vs.Withdrawal
+Sphingolipid metabolism,600,map00600,Sphingolipid metabolism,Metabolism,Lipid metabolism,95,680,0.000153628,0.002645822,ko00600,0.139705882,Addiciton.vs.Withdrawal
+Staphylococcus aureus infection,5150,organism:hsa+pathogen,Staphylococcus aureus infection,Human Diseases,Infectious disease: bacterial,23,137,0.005847614,0.04216322,ko05150,0.167883212,Addiciton.vs.Withdrawal
+Starch and sucrose metabolism,500,map00500,Starch and sucrose metabolism,Metabolism,Carbohydrate metabolism,399,3284,7.54E-07,2.92E-05,ko00500,0.121498173,Addiciton.vs.Withdrawal
+Toll and Imd signaling pathway,4624,dme04624,Toll and Imd signaling pathway,Organismal Systems,Immune system,5,8,0.000356753,0.005266355,ko04624,0.625,Addiciton.vs.Withdrawal
+"Tropane, piperidine and pyridine alkaloid biosynthesis",960,map00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",Metabolism,Biosynthesis of other secondary metabolites,35,194,0.000207243,0.003381327,ko00960,0.180412371,Addiciton.vs.Withdrawal
+Type I diabetes mellitus,4940,hsa04940,Type I diabetes mellitus,Human Diseases,Endocrine and metabolic disease,18,77,0.000300477,0.004657386,ko04940,0.233766234,Addiciton.vs.Withdrawal
+Tyrosine metabolism,350,map00350,Tyrosine metabolism,Metabolism,Amino acid metabolism,69,478,0.00045564,0.005885349,ko00350,0.144351464,Addiciton.vs.Withdrawal
+Vascular smooth muscle contraction,4270,hsa04270,Vascular smooth muscle contraction,Organismal Systems,Circulatory system,6,15,0.001825506,0.01761463,ko04270,0.4,Addiciton.vs.Withdrawal
+Amino sugar and nucleotide sugar metabolism,520,map00520,Amino sugar and nucleotide sugar metabolism,Metabolism,Carbohydrate metabolism,519,34214,0.001610685,0.036700608,ko00520,0.015169229,Withdrawal.vs.Methadone
+Bacterial invasion of epithelial cells,5100,organism:hsa+pathogen,Bacterial invasion of epithelial cells,Human Diseases,Infectious disease: bacterial,41,1392,3.80E-06,0.00040384,ko05100,0.029454023,Withdrawal.vs.Methadone
+DNA replication,3030,map03030,DNA replication,Genetic Information Processing,Replication and repair,261,15487,0.000113687,0.003718627,ko03030,0.016852844,Withdrawal.vs.Methadone
+Galactose metabolism,52,map00052,Galactose metabolism,Metabolism,Carbohydrate metabolism,336,20563,0.00012538,0.003718627,ko00052,0.016340028,Withdrawal.vs.Methadone
+Glyoxylate and dicarboxylate metabolism,630,map00630,Glyoxylate and dicarboxylate metabolism,Metabolism,Carbohydrate metabolism,237,14688,0.002015539,0.040184809,ko00630,0.016135621,Withdrawal.vs.Methadone
+Homologous recombination,3440,map03440,Homologous recombination,Genetic Information Processing,Replication and repair,337,21124,0.00058161,0.015461133,ko03440,0.015953418,Withdrawal.vs.Methadone
+Metabolic pathways,1100,map01100,Metabolic pathways,Metabolism,Global and overview maps,4642,335927,0.00156908,0.036700608,ko01100,0.013818478,Withdrawal.vs.Methadone
+Microbial metabolism in diverse environments,1120,map01120,Microbial metabolism in diverse environments,Metabolism,Global and overview maps,1369,92719,4.40E-05,0.001755069,ko01120,0.014765043,Withdrawal.vs.Methadone
+Mismatch repair,3430,map03430,Mismatch repair,Genetic Information Processing,Replication and repair,332,19776,2.02E-05,0.001074016,ko03430,0.016788026,Withdrawal.vs.Methadone
+Nitrogen metabolism,910,map00910,Nitrogen metabolism,Metabolism,Energy metabolism,145,8483,0.001955693,0.040184809,ko00910,0.01709301,Withdrawal.vs.Methadone
+Nucleotide excision repair,3420,map03420,Nucleotide excision repair,Genetic Information Processing,Replication and repair,227,12633,7.50E-06,0.000597729,ko03420,0.017968812,Withdrawal.vs.Methadone
+Other glycan degradation,511,map00511,Other glycan degradation,Metabolism,Glycan biosynthesis and metabolism,163,8203,7.36E-07,0.000234908,ko00511,0.019870779,Withdrawal.vs.Methadone
+Purine metabolism,230,map00230,Purine metabolism,Metabolism,Nucleotide metabolism,705,46124,0.000128229,0.003718627,ko00230,0.015284884,Withdrawal.vs.Methadone
+Pyrimidine metabolism,240,map00240,Pyrimidine metabolism,Metabolism,Nucleotide metabolism,572,36389,4.27E-05,0.001755069,ko00240,0.015719036,Withdrawal.vs.Methadone
+RNA polymerase,3020,map03020,RNA polymerase,Genetic Information Processing,Transcription,100,4541,1.65E-06,0.000263863,ko03020,0.022021581,Withdrawal.vs.Methadone
+Sphingolipid metabolism,600,map00600,Sphingolipid metabolism,Metabolism,Lipid metabolism,116,5797,1.94E-05,0.001074016,ko00600,0.02001035,Withdrawal.vs.Methadone
